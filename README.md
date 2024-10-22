@@ -1,3 +1,4 @@
 #Portfolio Website
 
-sashwatdevkota.com.np
+A simple portfolio website 
+Vist via sashwatdevkota.com.np
